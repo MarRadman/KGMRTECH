@@ -1,0 +1,3 @@
+- backend/ (Express + PostgreSQL, TypeScript)
+- frontend/ (React + Vite)
+- app/ (React Native + Expo)
