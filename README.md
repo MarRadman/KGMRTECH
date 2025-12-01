@@ -1,4 +1,4 @@
 - backend/ (Express + PostgreSQL, TypeScript)
-- frontend/ (React + Vite)
+- frontend/ (Next.js + Vite)
 - app/ (React Native + Expo)
 - DB/ Supabase
